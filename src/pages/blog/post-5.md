@@ -1,8 +1,6 @@
 ---
 title: Amet Nulla Facilisi Morbi Tempus
-subtitle: >-
-  Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
-  senectus.
+subtitle: ccc
 date: '2020-06-02'
 author: src/data/team/gustav-purpleson.yaml
 categories:
